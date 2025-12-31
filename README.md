@@ -53,8 +53,6 @@ I am always looking to improve the way we code by applying best practices and le
 
 ---
 
-🚀 Projetos em destaque
-
 ### 🚀 Projetos em destaque
 
 - 🔗 **Tarefas**: [Repositório](https://github.com/leo-gomes-dev/boardTarefa) | Site: [Tarefas](https://tarefas.leogomesdev.com)
