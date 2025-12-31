@@ -55,11 +55,13 @@ I am always looking to improve the way we code by applying best practices and le
 
 🚀 Projetos em destaque
 
-🔗 Tarefas: [Repositório] ( https://github.com/leo-gomes-dev/boardTarefa) | Site: [Tarefas](https://tarefas.leogomesdev.com)
-🔗 Pneuma: [Repositório] (https://github.com/leo-gomes-dev/frases) | Site: [Pneuma](https://pneuma.leogomesdev.com)
-🔗 Combustível: [Repositório] (https://github.com/leo-gomes-dev/calcGasolinaEtanol) | Site: [Calculadora de Combustível](https://combustivel.leogomesdev.com)
-🔗 Criptomoedas: [Repositório] (https://github.com/leo-gomes-dev/cripto) | Site: [Cripto App](https://criptomoedas.leogomesdev.com)
-🔗 Portfólio: [Leo Gomes Dev] (https://leogomesdev.com)
+### 🚀 Projetos em destaque
+
+- 🔗 **Tarefas**: [Repositório](https://github.com/leo-gomes-dev/boardTarefa) | Site: [Tarefas](https://tarefas.leogomesdev.com)
+- 🔗 **Pneuma**: [Repositório](https://github.com/leo-gomes-dev/frases) | Site: [Pneuma](https://pneuma.leogomesdev.com)
+- 🔗 **Combustível**: [Repositório](https://github.com/leo-gomes-dev/calcGasolinaEtanol) | Site: [Calculadora de Combustível](https://combustivel.leogomesdev.com)
+- 🔗 **Criptomoedas**: [Repositório](https://github.com/leo-gomes-dev/cripto) | Site: [Cripto App](https://criptomoedas.leogomesdev.com)
+- 🔗 **Portfólio**: [Leo Gomes Dev](https://leogomesdev.com)
 
 ---
 
