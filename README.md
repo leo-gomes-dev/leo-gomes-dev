@@ -60,7 +60,7 @@ I am always looking to improve the way we code by applying best practices and le
 - 🔗 **Pneuma**: [Repositório](https://github.com/leo-gomes-dev/frases) | Site: [Pneuma](https://pneuma.leogomesdev.com)
 - 🔗 **Combustível**: [Repositório](https://github.com/leo-gomes-dev/calcGasolinaEtanol) | Site: [Calculadora de Combustível](https://combustivel.leogomesdev.com)
 - 🔗 **Criptomoedas**: [Repositório](https://github.com/leo-gomes-dev/cripto) | Site: [Cripto App](https://criptomoedas.leogomesdev.com)
-- 🔗 **Fluxo**: [Repositório](https://github.com/leo-gomes-dev/fluxo) | Site: [Cripto App](https://fluxo.leogomesdev.com)
+- 🔗 **Fluxo**: [Repositório](https://github.com/leo-gomes-dev/chronos) | Site: [Fluxo](https://fluxo.leogomesdev.com)
 - 🔗 **Portfólio**: [Leo Gomes Dev](https://leogomesdev.com)
 
 ---
