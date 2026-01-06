@@ -2,8 +2,7 @@
 
 **Full Stack JavaScript Developer**
 
-"Experienced in building end-to-end applications **(front-end and back-end)** with a strong commitment to continuous technical evolution."
-I focus on developing modern, high-performance, and scalable web applications.
+"Construindo aplicações completas do front ao back-end. Sou movido pela evolução técnica e focado em entregar projetos web modernos, rápidos e prontos para crescer."
 
 ## 💻 Tech Stack
 - Languages: **JavaScript (ES6+), TypeScript**
@@ -12,7 +11,7 @@ I focus on developing modern, high-performance, and scalable web applications.
 - ORMs: **Prisma, TypeORM, Knex.js**
 - Databases: **PostgreSQL, MongoDB, MySQL**
 
-I am always looking to improve the way we code by applying best practices and leveraging libraries that optimize the development workflow.
+"Estou sempre em busca de aprimorar a nossa forma de programar, aplicando as melhores práticas e utilizando bibliotecas que otimizam o fluxo de desenvolvimento."
 
 ---
 
