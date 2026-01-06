@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Leo Gomes
+## 👋 Olá,Sou o Leo Gomes
 
 **Full Stack JavaScript Developer**
 
@@ -31,7 +31,9 @@
 
 ---
 
-## 🔗 Connect with me
+## 🔗 "Nós vamos nos conectar!"
+"Estou sempre aberto a trocar ideias sobre tecnologia, novos projetos ou oportunidades de colaboração. Sinta-se à vontade para me chamar!"
+
 
 *   🌐 **Website:** [leogomesdev.com](https://leogomesdev.com)
 *   💼 **LinkedIn:** [leo-gomes-dev](https://www.linkedin.com/in/leo-gomes-dev)
