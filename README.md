@@ -65,6 +65,7 @@
 - 🔗**Prime**:  [Repositório](https://github.com/leo-gomes-dev/prime) | Site: [Prime](prime.leogomesdev.com )
   
 - 🔗 **Portfólio**: [Leo Gomes Dev](https://leogomesdev.com)
+- 🔗 Paga um café?**: [Pagar um café](https://www.mercadopago.com.br/subscriptions/checkout?preapproval_plan_id=444f1eb39bc44922871a3d10b7350c81)
 
 ---
 
