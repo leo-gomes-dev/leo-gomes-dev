@@ -1,4 +1,4 @@
-## 👋 Olá,Sou o Leo Gomes
+## 👋 Oi, Sou o Leo Gomes
 
 **Full Stack JavaScript Developer**
 
