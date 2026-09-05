@@ -75,7 +75,7 @@ I develop web applications and teach programming, focusing on practical and mode
       <a href="https://github.com/leo-gomes-dev/restaurante-leogom">Repo ↗</a>
     </td>
     <td align="center">
-      <b>Gerador de CPF</b><br>
+      <b>Validador de CPF</b><br>
       <a href="https://gerador-cpf-zeta.vercel.app/">View ↗</a>
       &nbsp;•&nbsp;
       <a href="https://github.com/leo-gomes-dev/gerador-cpf">Repo ↗</a>
