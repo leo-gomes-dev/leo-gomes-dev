@@ -96,13 +96,20 @@ I develop web applications and teach programming, focusing on practical and mode
       <a href="https://github.com/leo-gomes-dev/react-todo-list">Repo ↗</a>
     </td>
     <td align="center">
-      <b></b><br>
+      <b>React Type Name</b><br>
+      <a href="http://leogomesdevelop">View ↗</a>
+      &nbsp;•&nbsp;
+      <a href="https://github.com/leo-gomes-dev/react-type_name">Repo ↗</a>
     </td>
     <td align="center">
-      <b></b><br>
+      <b>Roleta Sorteio</b><br>
+      <a href="https://leo-gomes-dev.github.io/roleta-sorteio">View ↗</a>
+      &nbsp;•&nbsp;
+      <a href="https://github.com/leo-gomes-dev/roleta-sorteio">Repo ↗</a>
     </td>
   </tr>
 </table>
+
 ---
 
 ### ☕ Support
