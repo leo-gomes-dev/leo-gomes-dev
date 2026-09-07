@@ -81,8 +81,28 @@ I develop web applications and teach programming, focusing on practical and mode
       <a href="https://github.com/leo-gomes-dev/gerador-cpf">Repo ↗</a>
     </td>
   </tr>
-</table>
 
+  <tr>
+    <td align="center">
+      <b>Dev Flix</b><br>
+      <a href="https://leo-gomes-dev.github.io/dev-flix/#/">View ↗</a>
+      &nbsp;•&nbsp;
+      <a href="https://github.com/leo-gomes-dev/dev-flix">Repo ↗</a>
+    </td>
+    <td align="center">
+      <b>React Todo List</b><br>
+      <a href="https://leo-gomes-dev.github.io/react-todo-list/">View ↗</a>
+      &nbsp;•&nbsp;
+      <a href="https://github.com/leo-gomes-dev/react-todo-list">Repo ↗</a>
+    </td>
+    <td align="center">
+      <b></b><br>
+    </td>
+    <td align="center">
+      <b></b><br>
+    </td>
+  </tr>
+</table>
 ---
 
 ### ☕ Support
