@@ -97,7 +97,7 @@ I develop web applications and teach programming, focusing on practical and mode
     </td>
     <td align="center">
       <b>React Type Name</b><br>
-      <a href="http://leogomesdevelop">View ↗</a>
+      <a href="https://leo-gomes-dev.github.io/react-type_name">View ↗</a>
       &nbsp;•&nbsp;
       <a href="https://github.com/leo-gomes-dev/react-type_name">Repo ↗</a>
     </td>
