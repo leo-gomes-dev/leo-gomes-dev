@@ -120,4 +120,4 @@ If you find my projects useful, you can support my work:
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=leo-gomes-dev&label=Views&color=0e75b6&style=for-the-badge)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=leo-gomes-dev&label=Views&color=0e75b6&style=for-the-badge) -->
