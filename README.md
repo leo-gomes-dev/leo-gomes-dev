@@ -13,7 +13,6 @@ I develop web applications and teach programming, focusing on practical and mode
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,nodejs,prisma,postgres,mysql,mongodb,html,css,python,cs" />
   <img src="https://chatgpt.com/s/m_6ad62fb235ac81919fdefbbfac5633ec"  />
   <img src="https://cdn.simpleicons.org/typeorm/FE0803" width="48" height="48" alt="TypeORM" />
 </p>
